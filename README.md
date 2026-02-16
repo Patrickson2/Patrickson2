@@ -8,6 +8,22 @@
 
 ---
 
+## WHO DOESN'T LOVE PAC-MAN
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/try-ronnie/assets/main/pacman/pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/try-ronnie/assets/main/pacman/pacman-light.svg" />
+    <img src="https://raw.githubusercontent.com/try-ronnie/assets/main/pacman/pacman-dark.svg" alt="Pac-Man contributions" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/try-ronnie/assets/main/neon-flow/neon-flow.gif" alt="Neon Flow Separator" width="100%" />
+</p>
+
+---
+
 ## ABOUT ME
 
 ```javascript
@@ -32,6 +48,22 @@ const developer = {
 
 ---
 
+## PYTHON ... GET IT
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/try-ronnie/assets/main/snake/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/try-ronnie/assets/main/snake/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/try-ronnie/assets/main/snake/snake-dark.svg" alt="Decorative animated snake" width="60%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/try-ronnie/assets/main/neon-flow/neon-flow.gif" alt="Neon Flow Separator" width="100%" />
+</p>
+
+---
+
 ## GITHUB STATS
 
 <p align="center">
@@ -45,13 +77,13 @@ const developer = {
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Patrickson2?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=A78BFA" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.public_repos&label=Public+Repos&style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Public Repos" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.following&label=Following&style=for-the-badge&labelColor=0D1117&color=34D399" alt="Following" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.public_gists&label=Public%20Gists&style=for-the-badge&labelColor=0D1117&color=A78BFA" alt="Public Gists" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.type&label=Account%20Type&style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Account Type" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.public_gists&label=Public+Gists&style=for-the-badge&labelColor=0D1117&color=A78BFA" alt="Public Gists" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.type&label=Account+Type&style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Account Type" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.created_at&label=GitHub+Since&style=for-the-badge&labelColor=0D1117&color=34D399" alt="GitHub Since" />
 </p>
 
