@@ -8,27 +8,15 @@
 
 ---
 
-## WHO DOESN'T LOVE PAC-MAN
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Patrickson2/Patrickson2/main/assets/pacman.gif" alt="Pac-Man contributions" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/try-ronnie/assets/main/neon-flow/neon-flow.gif" alt="Neon Flow Separator" width="100%" />
-</p>
-
----
-
 ## ABOUT ME
 
 ```javascript
 const developer = {
   name: "Patrickson Mungai",
-  location: "Nairobi, Kenya ",
+  location: "Nairobi, Kenya 🌍",
   currentlyWorking: "Building scalable web applications",
   lookingTo: "Collaborate on open-source projects",
-  learning: ["Rust", "GraphQL", "System Design", "Docker"],
+  learning: ["Rust", "GraphQL", "System Design", "FastAPI"],
   funFact: "I code faster than my coffee kicks in ☕",
   contact: "Open for opportunities and collaborations!",
 };
@@ -36,18 +24,6 @@ const developer = {
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Patrickson2&label=Profile+Views&color=00f7ff&style=flat-square&labelColor=0e1318" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/try-ronnie/assets/main/neon-flow/neon-flow.gif" alt="Neon Flow Separator" width="100%" />
-</p>
-
----
-
-## PYTHON ... GET IT
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Patrickson2/Patrickson2/main/assets/snake.gif" alt="Decorative animated snake" width="60%" />
 </p>
 
 <p align="center">
@@ -76,7 +52,7 @@ const developer = {
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.public_gists&label=Public%20Gists&style=for-the-badge&labelColor=0D1117&color=A78BFA" alt="Public Gists" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.type&label=Account%20Type&style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Account Type" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.created_at&label=GitHub%20Since&style=for-the-badge&labelColor=0D1117&color=34D399" alt="GitHub Since" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.created_at&label=GitHub+Since&style=for-the-badge&labelColor=0D1117&color=34D399" alt="GitHub Since" />
 </p>
 
 <p align="center">
@@ -90,14 +66,14 @@ const developer = {
 ```python
 class TechStack:
     def __init__(self):
-        self.languages = ["JavaScript", "Python", "C#", "TypeScript"]
-        self.frameworks = ["React", "Flask", "Firebase", "Prisma"]
-        self.tools = ["Git", "GitHub", "Docker", "Vercel", "Figma"]
-        self.databases = ["MySQL", "Firebase"]
+        self.languages = ["JavaScript", "Python", "C#", "TypeScript", "HTML", "CSS"]
+        self.frameworks = ["React", "Node.js", "FastAPI", "Flask"]
+        self.tools = ["Git", "GitHub", "Vercel", "Figma", "MySQL", "PostgreSQL"]
+        self.databases = ["MySQL", "PostgreSQL"]
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cs,ts,react,nodejs,firebase,mysql,git,github,docker,vercel,figma,prisma&perline=7" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=js,python,cs,ts,html,css,react,nodejs,fastapi,flask,git,github,vercel,figma,mysql,postgres&perline=8" alt="Tech Icons" />
 </p>
 
 <p align="center">
@@ -105,10 +81,24 @@ class TechStack:
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
 <p align="center">
