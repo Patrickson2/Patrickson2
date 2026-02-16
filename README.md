@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=00F7FF&center=true&vCenter=true&width=500&height=80&lines=I'm+Patrickson+Mungai;Full-Stack+Developer;OpenSource+Enthusiast;Building+The+Future+⚡" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=00F7FF&center=true&vCenter=true&width=500&height=80&lines=👋+I'm+Patrickson+Mungai;Full-Stack+Developer;Open-Source+Enthusiast;Building+The+Future+⚡" /></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,8 +7,10 @@
 </p>
 
 ---
+
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
-##  About Me
+
+## About Me
 
 ```javascript
 const developer = {
@@ -28,7 +30,7 @@ const developer = {
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -69,7 +71,7 @@ const developer = {
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Patrickson2&theme=transparent&bg_color=0e1318&title_color=00f7ff&text_color=ffffff&icon_color=00f7ff&hide_border=true&show_icons=true" height="180" alt="Stats" />
@@ -83,7 +85,7 @@ const developer = {
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrickson-mungai-a7a936280/" target="_blank">
