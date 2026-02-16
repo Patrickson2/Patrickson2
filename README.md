@@ -7,6 +7,7 @@
 </p>
 
 ---
+![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 ## WHO DOESN'T LOVE PAC-MAN
 
@@ -29,7 +30,7 @@
 ```javascript
 const developer = {
   name: "Patrickson Mungai",
-  location: "Nairobi, Kenya 🌍",
+  location: "Nairobi, Kenya ",
   currentlyWorking: "Building scalable web applications",
   lookingTo: "Collaborate on open-source projects",
   learning: ["Rust", "GraphQL", "System Design", "FastAPI"],
@@ -105,21 +106,19 @@ class TechStack:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cs,ts,html,css,react,nodejs,fastapi,flask,git,github,vercel,figma,mysql,postgres&perline=8" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=js,python,cs,html,css,react,fastapi,flask,git,github,vercel,figma,mysql,postgres&perline=8" alt="Tech Icons" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask" />
 </p>
