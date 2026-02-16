@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 ## WHO DOESN'T LOVE PAC-MAN
 
 <p align="center">
@@ -18,9 +18,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" width="100%" />
-</p>
 
 ---
 
@@ -29,7 +26,6 @@
 ```javascript
 const developer = {
   name: "Patrickson Mungai",
-  location: "Nairobi, Kenya ",
   currentlyWorking: "Building scalable web applications",
   lookingTo: "Collaborate on open-source projects",
   learning: ["Rust", "GraphQL", "System Design", "FastAPI"],
@@ -87,10 +83,6 @@ const developer = {
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.created_at&label=GitHub+Since&style=for-the-badge&labelColor=0D1117&color=34D399" alt="GitHub Since" />
 </p>
 
-<p align="center">
-  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" width="100%" />
-</p>
-
 ---
 
 ## TECH ARSENAL
@@ -131,10 +123,6 @@ class TechStack:
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-</p>
-
-<p align="center">
-  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" width="100%" />
 </p>
 
 ---
