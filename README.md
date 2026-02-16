@@ -9,20 +9,32 @@
 ---
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-## WHO DOESN'T LOVE PAC-MAN
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/try-ronnie/assets/main/pacman/pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/try-ronnie/assets/main/pacman/pacman-light.svg" />
-    <img src="https://raw.githubusercontent.com/try-ronnie/assets/main/pacman/pacman-dark.svg" alt="Pac-Man contributions" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="ASSETS/pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="ASSETS/pacman-light.svg" />
+    <img src="ASSETS/pacman-dark.svg" alt="Pac-Man contributions" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/try-ronnie/assets/main/neon-flow/neon-flow.gif" alt="Neon Flow Separator" width="100%" />
+  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" />
 </p>
 
+
+## PYTHON ... GET IT 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ASSETS/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="ASSETS/snake-light.svg" />
+    <img src="ASSETS/snake-dark.svg" alt="Decorative animated snake" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" />
+</p>
 ---
 
 ## ABOUT ME
