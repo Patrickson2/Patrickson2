@@ -140,9 +140,6 @@ class TechStack:
   <a href="mailto:thairupatrickson@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://stackoverflow.com/users/32373204/patrickson-mungai" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
   </a>
