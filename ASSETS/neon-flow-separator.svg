@@ -1,0 +1,35 @@
+<svg width="1200" height="96" viewBox="0 0 1200 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon section separator">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.8" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <line x1="20" y1="18" x2="1180" y2="18" stroke="#8b5cf6" stroke-width="2.5" opacity="0.8" filter="url(#glow)">
+    <animate attributeName="stroke" values="#8b5cf6;#22d3ee;#34d399;#c084fc;#8b5cf6" dur="7s" repeatCount="indefinite"/>
+  </line>
+
+  <path id="sepSnake" d="M 20 50 C 120 22, 220 78, 320 50 C 420 22, 520 78, 620 50 C 720 22, 820 78, 920 50 C 1020 22, 1120 78, 1180 50" fill="none" stroke="#a78bfa" stroke-width="5" stroke-linecap="round" filter="url(#glow)">
+    <animate attributeName="d" dur="6.5s" repeatCount="indefinite"
+      values="
+      M 20 50 C 120 22, 220 78, 320 50 C 420 22, 520 78, 620 50 C 720 22, 820 78, 920 50 C 1020 22, 1120 78, 1180 50;
+      M 20 48 C 120 76, 220 20, 320 48 C 420 76, 520 20, 620 48 C 720 76, 820 20, 920 48 C 1020 76, 1120 20, 1180 48;
+      M 20 50 C 120 22, 220 78, 320 50 C 420 22, 520 78, 620 50 C 720 22, 820 78, 920 50 C 1020 22, 1120 78, 1180 50"/>
+    <animate attributeName="stroke" values="#a78bfa;#22d3ee;#34d399;#c084fc;#a78bfa" dur="6.5s" repeatCount="indefinite"/>
+  </path>
+
+  <circle r="7" fill="#22d3ee" filter="url(#glow)">
+    <animate attributeName="fill" values="#22d3ee;#34d399;#c084fc;#22d3ee" dur="6.5s" repeatCount="indefinite"/>
+    <animateMotion dur="6.5s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#sepSnake"/>
+    </animateMotion>
+  </circle>
+
+  <line x1="20" y1="82" x2="1180" y2="82" stroke="#22d3ee" stroke-width="2.5" opacity="0.8" filter="url(#glow)">
+    <animate attributeName="stroke" values="#22d3ee;#c084fc;#34d399;#8b5cf6;#22d3ee" dur="7.2s" repeatCount="indefinite"/>
+  </line>
+</svg>
