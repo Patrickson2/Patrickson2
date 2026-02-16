@@ -8,16 +8,6 @@
 
 ---
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
-## WHO DOESN'T LOVE PAC-MAN
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="ASSETS/pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="ASSETS/pacman-light.svg" />
-    <img src="ASSETS/pacman-dark.svg" alt="Pac-Man contributions" width="100%" />
-  </picture>
-</p>
-
 
 ---
 
@@ -38,26 +28,16 @@ const developer = {
   <img src="https://komarev.com/ghpvc/?username=Patrickson2&label=Profile+Views&color=00f7ff&style=flat-square&labelColor=0e1318" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" width="100%" />
-</p>
-
 ---
-
-## PYTHON ... GET IT
+## WHO DOESN'T LOVE PAC-MAN
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="ASSETS/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="ASSETS/snake-light.svg" />
-    <img src="ASSETS/snake-dark.svg" alt="Decorative animated snake" width="60%" />
+    <source media="(prefers-color-scheme: dark)" srcset="ASSETS/pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="ASSETS/pacman-light.svg" />
+    <img src="ASSETS/pacman-dark.svg" alt="Pac-Man contributions" width="100%" />
   </picture>
 </p>
-
-<p align="center">
-  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" width="100%" />
-</p>
-
 ---
 
 ## GITHUB STATS
@@ -125,8 +105,26 @@ class TechStack:
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
----
+<p align="center">
+  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" width="100%" />
+</p>
 
+---
+## PYTHON ... GET IT
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ASSETS/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="ASSETS/snake-light.svg" />
+    <img src="ASSETS/snake-dark.svg" alt="Decorative animated snake" width="60%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="ASSETS/neon-flow-separator.svg" alt="Neon Flow Separator" width="100%" />
+</p>
+
+---
 ## CONNECT WITH ME
 
 <p align="center">
