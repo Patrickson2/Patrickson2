@@ -42,7 +42,6 @@
 ```javascript
 const developer = {
   name: "Patrickson Mungai",
-  location: "Nairobi, Kenya ",
   currentlyWorking: "Building scalable web applications",
   lookingTo: "Collaborate on open-source projects",
   learning: ["Rust", "GraphQL", "System Design", "FastAPI"],
