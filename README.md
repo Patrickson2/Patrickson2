@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=00F7FF&center=true&vCenter=true&width=500&height=80&lines=👋+I'm+Patrickson+Mungai;Full-Stack+Developer;Open-Source+Enthusiast;Building+The+Future+⚡" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=00F7FF&center=true&vCenter=true&width=500&height=80&lines=👋+I'm+Patrickson+Mungai;Full-Stack+Developer;OpenSource+Enthusiast;Building+The+Future+⚡" /></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -45,8 +45,6 @@ const developer = {
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Figma" />
 </p>
