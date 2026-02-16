@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=00F7FF&center=true&vCenter=true&width=500&height=80&lines=Hello+I'm+Patrickson+Mungai;Full-Stack+Developer;Open+Source+Enthusiast;Building+The+Future+⚡" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=00F7FF&center=true&vCenter=true&width=500&height=80&lines=I'm+Patrickson+Mungai;Full-Stack+Developer;OpenSource+Enthusiast;Building+The+Future+⚡" /></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
