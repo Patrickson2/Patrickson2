@@ -77,7 +77,7 @@ class TechStack:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cs,ts,html,css,react,nodejs,fastapi,flask,git,github,vercel,figma,mysql,postgres&perline=8" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=js,python,cs,ts,html,css,react,fastapi,flask,git,github,vercel,figma,mysql,postgres&perline=8" alt="Tech Icons" />
 </p>
 
 <p align="center">
@@ -91,7 +91,6 @@ class TechStack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask" />
 </p>
