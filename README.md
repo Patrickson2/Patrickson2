@@ -1,8 +1,17 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=👋+I'm+Patrickson+Mungai;Full-Stack+Developer;Backend-Focused+Developer;Frontend+Experience;OpenSource+Enthusiast;Building+The+Future+⚡" /></p>
+<img align="left"  src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="50px"> I'm Patrickson Mungai</h1>
+
+<p align="center">
+  
+  <a href="https://github.com/kishankumar1328 /readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub❤️❤️❤️;Full-Stack+Developer;Passionate+about+Backend+Design;Frontend+Software+Development;Prompt+Engineering;RESTApi+Development;OpenSource+Enthusiast;Always+Ready+To+Learn;Team+Player;Open+for+Collaborations;Thank+You+For+Visiting+My+GitHub🥳🥳🥳">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&color=00F7FF&center=true&vCenter=true&width=400&height=30&lines=Welcome+to+my+digital+space" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&color=00F7FF&center=true&vCenter=true&width=400&height=30&lines=Welcome+to+my+digital+space;Building+The+Future+⚡" alt="Typing SVG" />
   </a>
 </p>
 
