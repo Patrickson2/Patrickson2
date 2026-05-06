@@ -83,12 +83,12 @@ class TechStack:
     def __init__(self):
         self.languages = ["JavaScript", "Python", "C#", "TypeScript", "HTML", "CSS"]
         self.frameworks = ["React", "Node.js", "FastAPI", "Flask"]
-        self.tools = ["Git", "GitHub", "Vercel", "Figma", "MySQL", "PostgreSQL"]
+        self.tools = ["Git", "GitHub", "Vercel", "Figma", "Docker", "MySQL", "PostgreSQL"]
         self.databases = ["MySQL", "PostgreSQL"]
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cs,ts,html,css,react,fastapi,flask,git,github,vercel,figma,mysql,postgres&perline=8" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=js,python,cs,ts,html,css,react,fastapi,flask,git,github,vercel,figma,docker,mysql,postgres&perline=8" alt="Tech Icons" />
 </p>
 
 <p align="center">
@@ -113,6 +113,7 @@ class TechStack:
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
 <p align="center">
