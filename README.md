@@ -172,5 +172,5 @@ class TechStack:
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/Patrickson2">Patrickson2</a> with 💜</p>
-  <p>© 2024-2026 (May 06) | Built with 💜 and lots of ☕</p>
+  <p>© 2024-2026 | Built with 💜 and lots of ☕</p>
 </div>
