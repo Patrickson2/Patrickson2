@@ -171,23 +171,5 @@ class TechStack:
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/Patrickson2">Patrickson2</a> with 💜</p>
-  <p>© <span id="copyright-year"></span> | Built with 💜 and lots of ☕</p>
-
-<script>
-  (function () {
-    const el = document.getElementById('copyright-year');
-    if (!el) return;
-
-    // Current date parts
-    const now = new Date();
-    const y = now.getFullYear();
-    const m = now.toLocaleString(undefined, { month: 'short' });
-    const d = now.getDate();
-
-    // Adjust this to your preferred start year if needed
-    const startYear = 2024;
-
-    el.textContent = `${startYear}-${y} (${m} ${d})`;
-  })();
-</script>
+  <p>© 2024-2026 (May 06) | Built with 💜 and lots of ☕</p>
 </div>
