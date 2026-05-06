@@ -28,7 +28,7 @@ const developer = {
   name: "Patrickson Mungai",
   currentlyWorking: "Building scalable web applications",
   lookingTo: "Collaborate on open-source projects",
-  learning: ["Rust", "GraphQL", "System Design", "FastAPI"],
+  learning: ["DevOps", "GraphQL", "AI Automation"],
   funFact: "I code faster than my coffee kicks in ☕",
   contact: "Open for opportunities and collaborations!",
 };
@@ -171,5 +171,23 @@ class TechStack:
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/Patrickson2">Patrickson2</a> with 💜</p>
-  <p>© 2024-2025 | Built with 💜 and lots of ☕</p>
+  <p>© <span id="copyright-year"></span> | Built with 💜 and lots of ☕</p>
+
+<script>
+  (function () {
+    const el = document.getElementById('copyright-year');
+    if (!el) return;
+
+    // Current date parts
+    const now = new Date();
+    const y = now.getFullYear();
+    const m = now.toLocaleString(undefined, { month: 'short' });
+    const d = now.getDate();
+
+    // Adjust this to your preferred start year if needed
+    const startYear = 2024;
+
+    el.textContent = `${startYear}-${y} (${m} ${d})`;
+  })();
+</script>
 </div>
