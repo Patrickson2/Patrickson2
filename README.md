@@ -5,7 +5,7 @@
 <p align="center">
   
   <a href="https://github.com/kishankumar1328 /readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub❤️❤️❤️;Full-Stack+Developer;Passionate+about+Backend+Design;Frontend+Software+Development;Prompt+Engineering;RESTApi+Development;OpenSource+Enthusiast;Always+Ready+To+Learn;Team+Player;Open+for+Collaborations;Thank+You+For+Visiting+My+GitHub🥳🥳🥳">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub❤️❤️;Full-Stack+Developer;Passionate+about+Backend+Design;Frontend+Software+Development;Prompt+Engineering;RESTApi+Development;OpenSource+Enthusiast;Always+Ready+To+Learn;Team+Player;Open+for+Collaborations;Thank+You+For+Visiting+My+GitHub🥳🥳🥳">
   </a>
 </p>
 
@@ -122,7 +122,7 @@ class TechStack:
 
 ---
 
-## PYTHON ... GET IT
+## MIMIC PYTHON 
 
 <p align="center">
   <picture>
@@ -159,6 +159,8 @@ class TechStack:
 </p>
 
 ---
+
+## QUOTE OF THE DAY IS!!!!!
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA" alt="Random Quote" />
