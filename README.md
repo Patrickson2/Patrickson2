@@ -23,16 +23,15 @@
 
 ## ABOUT ME
 
-```python 
-class developer:
-  def __init__(self, name, currentlyWorking, lookingTo, learning, funFact, contact):
-  self.name = "Patrickson Mungai",
-  self.currentlyWorking: "Building scalable web applications",
-  self.lookingTo: "Collaborate on open-source projects",
-  self.learning: ["DevOps", "GraphQL", "AI Automation"],
-  self.funFact: "I code faster than my coffee kicks in ☕",
-  self.contact: "Open for opportunities and collaborations!",
-
+```javascript
+const developer = {
+  name: "Patrickson Mungai",
+  currentlyWorking: "Building scalable web applications",
+  lookingTo: "Collaborate on open-source projects",
+  learning: ["DevOps", "GraphQL", "AI Automation"],
+  funFact: "I code faster than my coffee kicks in ☕",
+  contact: "Open for opportunities and collaborations!",
+};
 ```
 
 <p align="center">
