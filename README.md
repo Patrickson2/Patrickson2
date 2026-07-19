@@ -82,8 +82,8 @@ const developer = {
 class TechStack:
     def __init__(self):
         self.languages = ["JavaScript", "Python", "C#", "TypeScript", "HTML", "CSS"]
-        self.frameworks = ["React", "Node.js", "FastAPI", "Flask"]
-        self.tools = ["Git", "GitHub", "Vercel", "Figma", "Docker", "MySQL", "PostgreSQL"]
+        self.frameworks = ["React", "FastAPI", "Flask",".NET"]
+        self.tools = ["Git", "GitHub", "Vercel", "Figma", "Docker"]
         self.databases = ["MySQL", "PostgreSQL"]
 ```
 
