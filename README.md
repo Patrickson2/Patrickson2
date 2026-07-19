@@ -5,7 +5,7 @@
 <p align="center">
   
   <a href="https://github.com/kishankumar1328 /readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub❤️❤️;Full-Stack+Developer;Passionate+about+Backend+Design;Frontend+Software+Development;Prompt+Engineering;RESTApi+Development;OpenSource+Enthusiast;Always+Ready+To+Learn;Team+Player;Open+for+Collaborations;Thank+You+For+Visiting+My+GitHub🥳🥳🥳">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=orange&size=30&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub❤️❤️;Full-Stack+Developer;Passionate+Backend+Developer;Prompt+Engineering;OpenSource+Enthusiast;Always+Ready+To+Learn;Team+Player;Open+for+Collaborations;Thank+You+For+Visiting+My+GitHub🥳🥳🥳">
   </a>
 </p>
 
