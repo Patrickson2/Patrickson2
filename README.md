@@ -28,7 +28,7 @@ const developer = {
   name: "Patrickson Mungai",
   currentlyWorking: "Building scalable web applications",
   lookingTo: "Collaborate on open-source projects",
-  learning: ["DevOps", "GraphQL", "AI Automation"],
+  learning: ["AI Automation", "Networking"],
   funFact: "I code faster than my coffee kicks in ☕",
   contact: "Open for opportunities and collaborations!",
 };
