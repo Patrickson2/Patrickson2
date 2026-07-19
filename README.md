@@ -51,29 +51,6 @@ const developer = {
 </p>
 ---
 
-## GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrickson2&theme=transparent&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&hide_border=true&show_icons=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickson2&theme=transparent&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF&icon_color=22D3EE&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Patrickson2&theme=transparent&background=0D1117&border=A78BFA&stroke=A78BFA&ring=A78BFA&fire=A78BFA&confetti=A78BFA&currStreakLabel=A78BFA&sideNums=A78BFA&currStreak=A78BFA&sideLabels=ffffff&dates=666666" width="100%" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Patrickson2?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=A78BFA" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.public_repos&label=Public+Repos&style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.following&label=Following&style=for-the-badge&labelColor=0D1117&color=34D399" alt="Following" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.public_gists&label=Public+Gists&style=for-the-badge&labelColor=0D1117&color=A78BFA" alt="Public Gists" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.type&label=Account+Type&style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Account Type" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPatrickson2&query=%24.created_at&label=GitHub+Since&style=for-the-badge&labelColor=0D1117&color=34D399" alt="GitHub Since" />
-</p>
-
 ---
 
 ## TECH ARSENAL
