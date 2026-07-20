@@ -29,7 +29,7 @@ const developer = {
   currentlyWorking: "Building scalable web applications",
   lookingTo: "Collaborate on open-source projects",
   learning: ["AI Automation", "Networking"],
-  funFact: "I code faster than my coffee kicks in ☕",
+  funFact: "I code faster than my coffee kicks in",
   contact: "Open for opportunities and collaborations!",
 };
 ```
