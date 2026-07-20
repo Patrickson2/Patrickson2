@@ -137,7 +137,7 @@ class TechStack:
 
 ---
 
-## QUOTE OF THE DAY IS!!!!!
+## QUOTE OF THE DAY IS !!!!!
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA" alt="Random Quote" />
@@ -151,5 +151,5 @@ class TechStack:
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/Patrickson2">Patrickson2</a> with 💜</p>
-  <p>© 2024-2026 | Built with 💜 and lots of ☕</p>
+  <p &copy > 2024-2026 | Built with 💜 and lots of ☕</p>
 </div>
